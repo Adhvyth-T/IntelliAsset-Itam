@@ -599,10 +599,7 @@ If you discover a security vulnerability, please email: security@intelliasset.de
 
 ## 📧 Contact
 
-**Project Link**: [https://github.com/yourusername/IntelliAsset-ITAM](https://github.com/yourusername/IntelliAsset-ITAM)
-
-**Documentation**: [https://docs.intelliasset.dev](https://docs.intelliasset.dev)
-
+**Email**: AdhvythReddy.Thogaru_2026@woxsen.edu.in
 ---
 
 ## 🙏 Acknowledgments
