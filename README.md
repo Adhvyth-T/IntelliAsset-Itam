@@ -13,7 +13,8 @@ A next-generation ITAM platform that combines multi-modal device scanning, LangC
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9f0d1b7c-c38d-4a7e-844e-62aa2026bba2" alt="Dashboard Preview" width="921" height="433" />
+  <img width="1880" height="882" alt="Screenshot 2025-11-05 223322" src="https://github.com/user-attachments/assets/12efd4ee-2523-4f5b-8445-bc41a7153f83" />
+
   <br>
   <b>Dashboard Preview</b>
 </p>
