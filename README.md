@@ -10,6 +10,15 @@
 
 A next-generation ITAM platform that combines multi-modal device scanning, LangChain-powered AI processing, real-time monitoring, and cryptographic audit trails to revolutionize IT asset tracking and management.
 
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f0d1b7c-c38d-4a7e-844e-62aa2026bba2" alt="Dashboard Preview" width="921" height="433" />
+  <br>
+  <b>Dashboard Preview</b>
+</p>
+
+
 ---
 
 ## 📋 Table of Contents
